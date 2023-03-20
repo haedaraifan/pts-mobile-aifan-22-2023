@@ -1,0 +1,1358 @@
+<resources>
+    <string name="app_name">ptsResepMakanan</string>
+
+    <string name="btn_text">Lihat semua</string>
+
+    <string name="hal_yang_perlu_disiapkan">Hal yang perlu disiapkan</string>
+
+    <string name="langkah_langkah">Langkah-langkah</string>
+
+    <string-array name="food_category_array">
+        <item>Aneka Resep Masakan Indonesia</item>
+        <item>Aneka Resep Masakan Malaysia</item>
+        <item>Aneka Resep Masakan Korea</item>
+        <item>Aneka Resep Masakan Jepang</item>
+    </string-array>
+
+    <string-array name="indonesia_food_name_list_array">
+        <item>Rendang</item>
+        <item>Pempek</item>
+        <item>Lumpia</item>
+        <item>Gudeg</item>
+        <item>Sayur lodeh</item>
+        <item>Tumis kangkung</item>
+        <item>Terong balado</item>
+        <item>Opor ayam</item>
+        <item>Rawon</item>
+        <item>Sate lilit</item>
+    </string-array>
+
+    <string-array name="indonesia_food_image_list_array">
+        <item>@drawable/indonesia_rendang</item>
+        <item>@drawable/indonesia_pempek</item>
+        <item>@drawable/indonesia_lumpia</item>
+        <item>@drawable/indonesia_gudeg</item>
+        <item>@drawable/indonesia_sayur_lodeh</item>
+        <item>@drawable/indonesia_tumis_kangkung</item>
+        <item>@drawable/indonesia_terong_balado</item>
+        <item>@drawable/indonesia_opor_ayam</item>
+        <item>@drawable/indonesia_rawon</item>
+        <item>@drawable/indonesia_sate_lilit</item>
+    </string-array>
+
+
+    <string-array name="indonesia_food_desc_list_array">
+        <item>
+            Resep rendang sapi ini bisa jadi rekomendasi untuk membuat sajian rendah nikmat khas Padang. Rendang juga menjadi menu wajib saat Lebaran tiba. Memasak rendang juga membutuhkan kesabaran untuk mendapatkan hasil yang maksimal. \n\n
+            Rendang berasal dari kata marandang yaitu proses memasak untuk menghilangkan air. Untuk itu, proses masak rendang asli Minang atau Padang ini membutuhkan waktu sekitar 7–8 jam hingga daging menjadi kering, minyak naik dan tak ada lagi kandungan air.
+        </item>
+        <item>
+            Jajanan khas Palembang yang terkenal ini selalu berhasil memanjakan lidah kita. Berbahan dasar ikan, pempek memiliki rasa gurih dan menggigit. Apalagi pempek wajib dihidangkan dengan cuko yang asam manis, rasa pempek jadi semakin kaya.
+        </item>
+        <item>
+            Lumpia adalah salah satu kudapan ringan yang cocok disantap di mana saja, dalam berbagai acara. Camilan populer yang satu ini dibuat dan dijual di berbagai tempat, dengan berbagai macam isian. Anda dapat memilih untuk menyantap lumpia dengan isi yang sesuai dengan selera Anda.
+        </item>
+        <item>
+            Rasa kangen kota Jogja bisa kamu tebus dengan menikmati gudeg. Makanan khas Jogja ini bisa dibuat sendiri dengan bumbu segar dan sedap.\n\n
+            Gudeg yang dibuat dari nangka muda merupakan makanan ikonik Jogjakarta. Dimasak dengan bumbu dan santan hingga warnanya kecokelatan dan manis gurih rasanya.\n\n
+            Membuat gudeg sendiri tak sesulit yang dibayangkan. Asalkan memakai nangka muda yang bagus kualitasnya dan bumbu komplet, gudeg enak bisa kamu dapatkan. Bisa dibuat versi kering atau mau yang sedikit berkuah.
+        </item>
+        <item>
+            Banyak orangmungkin penasaran apa saja yang perlu disiapkan jika ingin membuat bumbu sayur lodeh yang enak dan sedap. Karena kemungkinan ada banyak sekali resep lodeh sayur dengan berbagai macam bumbu.\n\n
+            Jika ingin membuat bumbu sayur lodeh, memang perlu menyiapkan dua jenis bumbu, yaitu bumbu halus dan bumbu utuh/kasar. Keduanya mampu menciptakan perpaduan rasa yang kaya dan sedap. Ini cara membuat bumbu sayur lodeh yang enak.
+        </item>
+        <item>
+            Tumis kangkung sering menjadi salah satu menu sayur favorit di berbagai rumah makan. Rasanya lezat dengan tekstur yang lembut dan sedikit renyah bahkan semakin menambah selera makan. Tumis kangkung yang lezat seperti di rumah makan juga bisa diolah sendiri di rumah, lho. Ikuti resepnya.
+        </item>
+        <item>
+            Terong balado selalu ada dalam menu rumah makan Padang. Meskipun sederhana rasa segar, pedas sedikit asamnya membuat lauk ini bikin lahap makan.\n\n
+            Ada beragam jenis terong yang umum dimasak sebagai sayur. Seperti terong hijau, terong ungu yang berukuran besar dan kecil. Sayuran ini memberi asupan sejumlah mineral dan vitamin yang menyehatkan.\n\n
+            Dalam hidangan Minang, terong dijadikan pelengkap lauk. Biasanya berupa terong ungu yang panjang dan segar. Bumbunya sederhana, hanya cabe merah dan bawang merah serta bawang putih. Meski demikian rasa pedas segarnya bikin nagih.
+        </item>
+        <item>
+            Selain opor ayam bumbu putih, ada pula resep opor ayam kuning yang rasanya pun lezat.\n
+            Opor ayam bumbu kuning bisa kamu santap dengan nasi, ketupat, ataupun lontong. Cocok juga dipadukan dengan lauk lainnya, seperti sambal goreng ati atau kering kentang.\n
+            Biar makin nikmat, opor ayam bumbu kuning baiknya disajikan selagi hangat. Jangan lupa beri taburan bawang goreng untuk pelengkapnya.
+        </item>
+        <item>
+            Rawon daging berkuah hitam pekat ini rasanya gurih mantap. Potongan daging berlemaknya empuk juicy. Makin enak dimakan dengan telur asin dan tauge segar.\n\n
+            Sup daging berbumbu kluwek yang hitam pekat ini jadi ikon kuliner Surabaya. Rasa gurih medhok dan bumbu pekatnya ternyata bikin banyak orang ketagihan.\n\n
+            Membuat rawon tak beda dengan membuat sup. Yang penting pilih daging berlapis lemak yang bagus lalu racik bumbunya. Kluwek jadi bumbu utamanya dan selanjutnya ikuti saja petunjuk resep di bawah ini.
+        </item>
+        <item>
+            Sate lilit khas Bali yang ini dibuat dari daging ayam. Rasa gurih daging ayam menyatu dengan bumbu genep yang pedas menyengat. Mantap!\n\n
+            Selain nasi campur Bali, pulau dewata punya sate yang unik dan enak. Sate lilit biasa dibuat dari daging ikan dengan bumbu genep yang komplet. Dililitkan pada sebatang serai sehingga saat dibakar di atas api arang aromanya makin sedap.\n\n
+            Dimakan begitu saja sudah gurih pedas enak karena bumbunya sudah lengkap. Apalagi dicocol sambal yang pedas, makin sedap. Untuk membuat sendiri tidak sulit, coba ikuti tips dan resep berikut ini.
+        </item>
+    </string-array>
+    
+    <string-array name="indonesia_food_ingredients_list_array">
+        <item>
+            - 1 kg daging sapi\n
+            - 3 butir kelapa, diambil santan kental dan santan encernya\n
+            - 4 lembar daun jeruk\n
+            - 3 batang serai, memarkan\n
+            - 4 butir asam kandis\n
+            - 100ml minyak goreng\n
+            - 5 gram garam\n\n
+            Bumbu rendang daging sapi 1 Kg:\n
+            - 60 gram bawang merah\n
+            - 50 gram bawangputih\n
+            - 250 gram cabai merah besar\n
+            - 100 gram lengkuas\n
+            - 50 gram kemiri\n
+            - 2 gram cengkeh
+        </item>
+        <item>
+            - 1 kg daging ikan tenggiri yang telah digiling halus\n
+            - 1 kg tepung sagu\n
+            - 250 ml air es\n
+            - penyedap rasa secukupnya\n
+            - garam secukupnya
+        </item>
+        <item>
+            - 1,2 kg rebung, iris-iris seukuran korek api, rebus tiriskan\n
+            - 200 gr daging ayam cincang\n
+            - 30 lembar kulit lumpia instant\n\n
+            - 20 butir bawang merah, cincang\n
+            - 15 siung bawang putih, cincang\n
+            - 5 sdm kecap manis\n
+            - 3 sdm minyak wijen\n
+            - 3 sdm kecap asin\n
+            - 3 sdt merica bubuk\n
+            - 3 sdt gula pasir\n
+            - Secukupnya garam\n
+            - Putih telur untuk olesan kulit lumpia\n\n
+            - Daun bawang\n
+            - Cabai rawit ijo
+        </item>
+        <item>
+            - 1 kg nangka muda\n
+            - 5 butir telur ayam rebus, kupas\n
+            - 2 lembar daun salam\n
+            - 3 lembar daun jeruk\n
+            - 3 cm lengkuas, memarkan\n
+            - 120 g gula Jawa yang cokelat tua\n
+            - 1.5 liter santan sedang\n
+            - 500 ml santan kental\n
+            - 8 butir bawang merah\n
+            - 5 siung bawang putih\n
+            - 5 butir kemiri\n
+            - 1 sdm ketumbar\n
+            - 1 potong terasi\n
+            - 1/4 sdt jintan\n
+            - 2 sdt garam\n
+            - Sambal goreng krecek\n
+            - Opor ayam\n
+            - Sambal bajak
+        </item>
+        <item>
+            Bumbu halus:\n
+            - 5 siung bawang putih\n
+            - 7 siung bawang merah\n
+            - 3 buah cabai merah besar\n
+            - 3 butir kemiri, goreng/sangrai\n
+            - 2 ruas kunyit\n
+            - 1 sdt ketumbar\n
+            - 1 sdt terasi\n
+            - garam, gula pasir dan kaldu bubuk secukupnya\n\n
+            Bumbu utuh:\n
+            - 1 ruas lengkuas, memarkan\n
+            - 2 batang serai, memarkan\n
+            - 2 lembar daun salam\n
+            - 4 lembar daun jeruk\n
+            - cabai rawit utuh secukupnya
+        </item>
+        <item>
+            - Kangkung, petik dan cuci bersih - 2 ikat\n
+            - Bawang putih - 3 siung\n
+            - Bawang merah - 5 butir\n
+            - Garam - 1 sdt\n
+            - Gula pasir - 1/2 sdt\n
+            - Saus tiram - 1 sdm\n
+            - Cabai rawit merah - 2 buah\n
+            - Cabai merah keriting - 3 buah\n
+            - Minyak goreng - 1 sdm
+        </item>
+        <item>
+            - 4 buah terong ungu\n
+            - minyak goreng\n
+            - 2 lembar daun jeruk\n
+            - 1 batang serai, memarkan\n
+            - 2 sdm air jeruk nipis\n
+            - 1 sdm kaldu ayam bubuk\n
+            - 5 buah cabe merah besar\n
+            - 12 buah cabe rawit merah\n
+            - 8 butir bawang merah\n
+            - 3 siung bawang putih\n
+            - 1 buah tomat merah\n
+            - 1 sdt gula pasir\n
+            - 2 sdt garam
+        </item>
+        <item>
+            - 1 ekor ayam kampung, potong-potong, cuci bersih\n
+            - 3 sdm minyak, untuk menumis\n
+            - 500 ml air\n
+            - 1 lt santan sedang dari 1 butir kelapa\n
+            - 3 lembar daun salam\n
+            - 3 lembar daun jeruk\n
+            - 2 batang serai, memarkan\n
+            - 1 ruas jari lengkuas, memarkan\n
+            - 1/2 sdt gula pasir\n
+            - 1 sdt kaldu bubuk instan rasa ayam Bumbu halus\n
+            - 10 butir bawang merah\n
+            - 8 siung bawang putih\n
+            - 1 sdm merica\n
+            - 1 sdm ketumbar\n
+            - 2/4 sdt jintan\n
+            - 2/4 biji pala\n
+            - 1 ibu jari jahe\n
+            - 1 ibu jari kunyit\n
+            - 50 gram kemiri\n
+            - Garam secukupnya
+        </item>
+        <item>
+            - 1 kg g daging sandung lamur sapi\n
+            - 3 lembar daun salam\n
+            - 5 lembar daun jeruk\n
+            - 2 batang serai, ambil bagian yang putih, memarkan\n
+            - 4 cm lengkuas, memarkan\n
+            - 5 sdm minyak sayur\n
+            - 12 butir bawang merah\n
+            - 8 siung bawang putih\n
+            - 3 buah cabai merah\n
+            - 5 butir kemiri\n
+            - 8 buah keluak, ambil isinya\n
+            - 2 cm kunyit\n
+            - 1 sdt ketumbar\n
+            - 1 sdt merica butiran\n
+            - 1 sdt terasi\n
+            - 2 sdt asam Jawa\n
+            - 2 sdt garam\n
+            - Telur asin\n
+            - Tauge pendek\n
+            - Sambal terasi
+        </item>
+        <item>
+            - 500 g daging ayam cincang\n
+            - 2 sdm minyak sayur\n
+            - 50 g bawang merah, cincang halus\n
+            - 20 g bawang putih, cincang halus\n
+            - 2 buah cabai merah, buang bijinya, cincang halus\n
+            - 10 g jahe, cincang halus\n
+            - 10 g lengkuas, cincang halus\n
+            - 5 g kencur, cincang halus\n
+            - 5 g kunyit, cincang halus\n
+            - 1/2 sdt merica bubuk\n
+            - 1 butir cengkih, haluskan\n
+            - 1/2 sdt pala bubu\n
+            - 2 g g ketumbar halus\n
+            - 2 g biji wijen putih, haluskan\n
+            - 1/2 sdt merica\n
+            - 1 sdt garam\n
+            - 12 batang buah serai\n
+            - 1 lembar daun jeruk, iris halus\n
+            - 30 g kelapa parut\n
+            - 12 batang serai
+        </item>
+    </string-array>
+
+    <string-array name="indonesia_food_steps_list_array">
+        <item>
+            1. Haluskan semua bahan Bumbu dengan diulek atau diblender.\n\n
+            2. Tumis bumbu dengan sedikit minyak goreng hingga wangi.\n\n
+            3. Masukkan batang serai, daun jeruk, asam kandis dan garam, aduk rata.\n\n
+            4. Tuangi santan dan dididihkan, masukkan daging.\n\n
+            5. Masak dengan api kecil selama beberapa jam sampai daging empuk dan bumbu kecoklatan sesuai selera.
+        </item>
+        <item>
+            1. Masukkan ikan, garam, penyedap rasa dan air es, lalu campurkan hingga merata.\n\n
+            2. Tambahkan tepung sedikit demi sedikit, aduk hingga adonan menjadi kalis.\n\n
+            3. Bentuk adonan sesuai seleramu.Rebus adonan pempek yang telah dibentuk ke air mendidih.\n\n
+            4. Jika adonan telah mengapung, itu artinya pempek sudah matang. Tiriskan.\n\n
+            5. Kamu bisa langsung menyajikannya atau bisa digoreng dulu.\n\n
+            6. Jangan lupa gunakan cuko biar lebih mantap.
+        </item>
+        <item>
+            1. Tumis bawang putih dan bawang merah hingga harum\n\n
+            2. Masukkan ayam cincang, masak hingga daging ayam berubah warna lebih putih\n\n
+            3. Masukkan rebung rebus. Tambahkan kecap manis, kecap asin, minyak wijen, merica bubuk, gula pasir dan garam\n\n
+            4. Masak hingga air menyusut\n\n
+            5. Biarkan dingin\n\n
+            6. Ambil satu lembar kulit lumpia. Letakkan satu sdm bagian isian lumpia di ujung. Lipat seperti membentuk amplop. Terakhir gulung, dan olesi ujung kulit dgn putih telur. Agar lipatan tidak lepas saat di goreng. Pastikan lipatan rapat, padat dan giling\n\n
+            7. Goreng hingga kecokelatan atau kukus\n\n
+            8. Sajikan dengan cabai rawit ijo dan daun bawang.
+        </item>
+        <item>
+            1. Potong nangka muda berbentuk dadu besar. Rebus nangka muda dalam air atau air kelapa tua secukupnya hingga lunak. Angkat dan tiriskan nangka muda.\n\n
+            2. Bumbu Halus: Haluskan semua bahan bumbu dengan blender atau ulekan hingga halus benar.\n\n
+            3. Masukkan nangka muda dan telur ke dalam panci. Tuangi santan, masukkan bumbu halus, daun salam, daun jeruk, lengkuas dan gula merah.\n\n
+            4. Masak dengan api sedang hingga bumbu meresap dan kuahnya susut.\n\n
+            5. Tuangkan santan kental. Masak dengan api hingga kuah benar-benar susut. Matikan api.\n\n
+            6. Sajikan gudeg dengan pelengkapnya.
+        </item>
+        <item>
+            1. Haluskan bumbu, tumis hingga harum. Masukkan semua bumbu utuh. Tumis hingga bumbbu matang.\n\n
+            2. Pastikan menggunakan minyak agak banyak agar bumbu halus tidak gosong atau menempel di penggorengan karena terlalu kering.\n\n
+            3. Pastikan bumbu sudah matang atau tidak langu sebelum menuangkan santan dan bahan lodeh sayur ke dalamnya. Jika tidak, bumbu akan terasa kurang sedap.\n\n
+            4. Masak agak lama agar rasanya lebih keluar dan lebih meresap ke dalam bahan yang dimasak.
+        </item>
+        <item>
+            1. Iris tipis bawang putih dan bawang merah. Potong serong cabai rawit merah dan cabai keriting.\n\n
+            2. Panaskan minyak, tumis bawang merah dan bawang putih hingga harum, kemudian tambahkan cabai dan tumis sebentar hingga layu.\n\n
+            3. Masukkan garam, gula, dan saus tiram. Aduk hingga semua bumbu tercampur rata.\n\n
+            4. Masukkan kangkung lalu masak dengan api besar hingga matang, angkat dan sisihkan.\n\n
+            5. Tumis kangkung siap untuk dinikmati.
+        </item>
+        <item>
+            1. Belah terong menjadi dua lalu potong menjadi dua. Rendam terong dengan air yang diberi sedikit garam.\n\n
+            2. Tiriskan terong lalu lap hingga kering airnya.\n\n
+            3. Panaskan minyak banyak dalam wajan, goreng potongan terong sebentar hingga layu lalu angkat dan tiriskan.\n\n
+            4. Bumbu: Giling bahan-bahan bumbu hingga agak halus.\n\n
+            5. Panaskan 100 ml minyak dalam wajan.\n\n
+            6. Masukkan bumbu, daun jeruk, serai dan kaldu bubuk. Aduk-aduk hingga rata.\n\n
+            7. Kecilkan api, aduk-aduk bumbu hingga benar-benar matang. Berbutir kecil dan minyaknya kemerahan.\n\n
+            8. Masukkan terong dan air jeruk nipis, aduk dan biarkan mendidih beberapa saat lalu angkat.
+        </item>
+        <item>
+            1. Tumis bumbu halus dengan daun salam, daun jeruk, serai, dan lengkuas hingga harum. Masukkan ayam, aduk hingga berubah warna.\n\n
+            2. Tuang air, masukkan asam jawa, gula pasir, dan kaldu bubuk, aduk kembali. Masak dengan api sedang hingga ayam lunak dan air menyusut.\n
+            3. Tambahkan santan, masak kembali hingga matang dan bumbu meresap. Angkat, taburi dengan bawang goreng. Sajikan.
+        </item>
+        <item>
+            1. Potong-potong daging ukuran sedang.\n\n
+            2. Panaskan minyak, tumis bumbu halus hingga wangi.\n\n
+            3. Masukkan serai, daun salam, daun jeruk, dan lengkuas. Aduk hingga layu.\n\n
+            4. Masukkan potongan daging, aduk hingga berubah warna agak pucat.\n\n
+            5. Angkat, masukkan ke dalam panci lalu tuangi air secukupnya.\n\n
+            6. Masak dengan api kecil hingga daging empuk dan kuah susut.\n\n
+            7. Angkat dan sajikan hangat dengan Pelengkapnya.
+        </item>
+        <item>
+            1. Panaskan minyak, tumis bawang merah dan bawang putih hingga wangi.\n\n
+            2. Tambahkan rempah dan bumbu halus lainnya.Aduk hingga wangi dan layu. Angkat.\n\n
+            3. Haluskan bumbu tumis dengan blender hingga lembut.\n\n
+            4. Campurkan bumbu halus dengan daging ayam cincang. Aduk dengan tangan hingga benar-benar rata.\n\n
+            5. Tambahkan daun jeruk dan kelapa, aduk hingga rata.\n\n
+            6. Bagi adonan menjadi 12 bulatan.\n\n
+            7. Taruh bulatan adonan di ujung batang serai. Tarik ke arah bawah sambil putar adonan mengelilingi ujung atas batang serai hingga menjadi bulat panjang.\n\n
+            8. Panggang sate di atas bara api sambil balik-balik hingga matang.\n\n
+            9. Angkat, sajikan dengan sambal.
+        </item>
+    </string-array>
+
+    <string-array name="malaysia_food_name_list_array">
+        <item>Nasi lemak</item>
+        <item>Mee goreng mamak</item>
+        <item>Curry mee</item>
+        <item>Assam laksa</item>
+        <item>Apam balik</item>
+        <item>Nasi kerabu</item>
+        <item>Nasi kandar</item>
+        <item>Lemang</item>
+        <item>Char kuey teow</item>
+        <item>Roti canai</item>
+    </string-array>
+
+    <string-array name="malaysia_food_image_list_array">
+        <item>@drawable/malaysia_nasi_lemak</item>
+        <item>@drawable/malaysia_mee_goreng_mamak</item>
+        <item>@drawable/malaysia_curry_mee</item>
+        <item>@drawable/malaysia_assam_laksa</item>
+        <item>@drawable/malaysia_apam_balik</item>
+        <item>@drawable/malaysia_nasi_kerabu</item>
+        <item>@drawable/malaysia_nasi_kandar</item>
+        <item>@drawable/malaysia_lemang</item>
+        <item>@drawable/malaysia_char_kuey_teow</item>
+        <item>@drawable/malaysia_roti_canai</item>
+    </string-array>
+
+    <string-array name="malaysia_food_desc_list_array">
+        <item>
+            Racikan nasi lemak Malaysia ini lauknya sederhana. Sambal bilis yang pedas gurih, telur rebus plus timun dan kacang goreng. Sederhana dan sedap!\n\n
+            Nasi lemak atau nasi gurih merupakan menu sarapan sekaligus ikonik Malaysia. Biasa dijajakan di kaki lima, nasi gurih dengan topping lauk sederhana ini memang murah, sedap, mengenyangkan dan cocok untuk sarapan.\n\n
+            Nasi yang gurih enak dibungkus dengan daun pisang hingga harum aromanya. Porsinya juga cukup mengenyangkan. Kamu bisa membuat nasi lemak dengan lauk sambal bilis dengan resep nasi lemak Malaysia berikut ini.
+        </item>
+        <item>
+            Mie goreng mamak Malaysia ini rasanya gurih dominan manis. Enak dimakan hangat dengan tambahan air jeruk nipis dan lalap mentimun.\n\n
+            Mie goreng mamak atau sering disebut mee mamak adalah mie goreng gaya Malaysia. Ciri khasnya memakai mie hokkian atau mie lidi yang tebal dan banyak kecap manis hingga warnanya kecokelatan.\n\n
+            Seperti mie goreng umumnya, cara membuatnya juga tidak sulit. Resep mie goreng mamak Malaysia bisa kamu ikuti langkah dan tips pembuatannya di sini.
+        </item>
+        <item>
+            Resepi Mee Kari Ayam Sederhana Spesial Lengkap Khas Melayu Malaysia Asli Enak. Mee kari sedap siapalah yang tak suka kan?. Saya suka mee kari versi nyonya yang kuahnya agak mild dan sedikit cair, tak berapa pekat dan tak berapa lemak berminyak, boleh dihirup lagi. Dan mee kari wajib ada kerang dan tauhu kering kembung (tauhu pok). Suka betul tauhu kembang tu dalam kuah kari, sedap je!.\n\n
+            Resepi mee kari nyonya ni tak lah susah mana. Senang je nak buatnya, semua orang pun boleh masak mi sup kare ayam. Bahan nak guna pun mudah nak cari. Ayam juga boleh digantikan dengan daging sapi. Ini resepi mee kari ayam komplit yang special sedap tu.
+        </item>
+        <item>
+            Nah bagi anda yang penasaran dengan asam laksa penang, anda tidak perlu jauh-jauh pergi ke Malaysia, anda bisa membuatnya sendiri dirumah, terlebih untuk cara membuat kuah laksa penang yang digadang-gadang memiliki rasa khas melayu. Seperti apa bahan dan langkah pembuatannya? berikut dibawah ini sudah kami tuliskan.
+        </item>
+        <item>
+            Seperti biasa, hari ini coba-coba menu baru lagi. Tadi habis jalan-jalan di blognya Bunda Diah Didi dan Bunda Hesti HH. Terus ketemu resep apam balik yang disebut juga ban jian kueh Malaysia. Kue ini notabene mirip sekali dengan resep martabak manis ala Indonesia yang punya julukan kue terang bulan.\n\n
+            Hanya bedanya untuk apam balik malaysia bentuknya lebih tipis di bandingkan martabak manis yang kue nya tebal dan berpori banyak. Kalau soal rasa sih sama-sama enak. Manis legitnya terasa sekali, sungguh memang mirip sekali dengan martabak manis yang berbentuk tipis.
+        </item>
+        <item>
+            Makan nasi kuning dalam tradisi kita sudah biasa, ya. Nah, gimana kalau sekarang kita coba makan nasi biru yang biasanya disebut sebagai nasi kerabu? Nasi kerabu merupakan makanan khas Malaysia, dari daerah Kelantan dan Trengganu. Jenis nasi ini juga dapat ditemui di selatan Thailand.\n\n
+            Warna biru pada nasi menggunakan kelopak bunga telang. Supaya Junior nggak bosan dengan menu nasi yang biasanya, boleh banget, lho, mencoba resep Nasi Kerabu Mini ini.
+        </item>
+        <item>
+            Pernah mencicipi nasi kandar, Beauty? Nasi kandar mempunyai kemiripan dengan nasi padang. Meski tampak serupa, tetapi keduanya gak sama. Nasi kandar adalah sajian nasi putih dengan aneka lauk lengkap dan kuah kari.\n\n
+            Selain rasanya yang enak menggugah selera, untuk membuat nasi kandar juga terbilang cukup mudah. Penasaran? Dilansir dari laman umma.id, berikut resep nasi kandar.
+        </item>
+        <item>
+            Nuansa lebaran yang berbeda dengan sajian lemang ketan untuk alternatif ketupat yang lebih gurih. Aroma bakar dari daun pisang dan bambu muda yang unik membuat lemang makin lezat.
+        </item>
+        <item>
+            Char kuey tiaw adalah sajian asal Malaysia berupa kwe tiau goreng. Karena kita adalah negara tetangga maka banyak sajian asal Malaysia yang bisa diterima oleh lidah kita orang Indonesia. Agar tak penasaran dengan rasa kwetiau goreng asal Malaysia ini langsung saja coba resep berikut.
+        </item>
+        <item>
+            Roti canai merupakan street food Malaysia yang juga dikenal dengan nama parata di India.\n\n
+            Roti ini dibuat tanpa menggunakan ragi sehingga bentuknya tipis dan tidak mengembang.\n\n
+            Renyah dan lembutnya roti canai cocok dipadukan dengan saus kari kental yang gurih. Sajikan untuk sarapan atau camilan.
+        </item>
+    </string-array>
+
+    <string-array name="malaysia_food_ingredients_list_array">
+        <item>
+            Bahan:\n
+            - Nasi Gurih\n
+            - 1 kg beras pulen, cuci, tiriskan\n
+            - 1 lembar daun pandan\n
+            - 1 batang serai, memarkan\n
+            - 2 lembar daun salam\n
+            - 1/2 sdt garam\n
+            - 500-600 ml santan encer\n
+            - Sambal Ikan Bilis:\n
+            - 200 g ikan bilis kering, goreng\n
+            - 1 sdm air asam Jawa\n\n
+            Bumbu, haluskan:\n
+            - 7 butir bawang merah\n
+            - 4 siung bawang putih\n
+            - 2 buah cabe merah besar\n
+            - 5 buah cabe merah kering\n
+            - 1 potong kecil terasi\n
+            - 1 sdt gula pasir\n
+            - 2 sdt garam\n\n
+            Pelengkap:\n
+            - telur rebus, belah dua\n
+            - irisan timun\n
+            - kacang tanah goreng
+        </item>
+        <item>
+            Bahan:\n
+            - 500 g mie lidi kuning\n
+            - 3 siung bawang putih, cincang halus\n
+            - 1 buah tahu putih kecil, potong-potong, goreng\n
+            - 1 buah cabe merah, iris kasar\n
+            - 1 buah cabe hijau, iris kasar\n
+            - 50 g tauge\n\n
+            Bumbu:\n
+            - 1 sdm kecap asin\n
+            - 3 sdm kecap manis\n
+            - 2 sdm saus tiram\n
+            - 1 sdt bumbu kari bubuk\n
+            - 1/2 sdt garam\n
+            - 1/2 sdt merica bubuk\n
+            - 1 sdt garam\n\n
+            Pelengkap:\n
+            - jeruk nipis/lemon cui\n
+            - mentimun
+        </item>
+        <item>
+            Bahan:\n
+            - 1 kg mee kuning\n
+            - 500 gram ayam - potong kecil\n
+            - 13 biji bebola ikan (fish cake)\n
+            - 300 gram udang - buang kulit\n
+            - 4 sudu besar rempah kari ayam - bancuh menjadi pes pekat\n
+            - 2 cawan santan pekat\n
+            - 3 keping kek ikan (cake fish) atau pempek\n
+            - 1 biji kentang - rebus dan lecek halus\n
+            - 1 kg kerang - rebus dan ambil isi\n
+            - 2 cawan air dari rebusan udang yang dibuang\n
+            - 2 cawan santan cair\n
+            - 2 keping asam gelugor\n\n
+            Bahan dikisar halus:\n
+            - 4 ulas bawang putih\n
+            - 10 tangkai cili kering- rebus dan toskan\n
+            - 6 biji bawang merah\n
+            - 1 inci lengkuas\n
+            - 1 inci halia\n
+            - 2 sudu besar udang kering - rendam hingga lembut\n\n
+            Bahan rempah tumis:\n
+            - 5 biji buah pelaga\n
+            - 3 kuntum bunga lawang\n
+            - 3 kuntum cengkih\n
+            - 2 tangkal daun kari\n
+            - 1 batang kayu manis\n
+            - 1 batang serai - hiris nipis\n\n
+            Bahan hiasan:\n
+            - 4 biji telur - potong 2 bahagian\n
+            - bawang goreng\n
+            - 4 biji tauhu digoreng dan dihiris\n
+            - daun bawang\n
+            - cili merah\n
+            - liamu kasturi - potong 2 bahagian\n
+            - taugeh\n
+            - 2 tangkai sawi - potong dan rebus\n
+            - rebusan udang (tidak wajib)
+        </item>
+        <item>
+            Bahan utama:\n
+            - Bumbu untuk dihaluskan\n
+            - Cabai merah 8 buah\n
+            - Cabai rawit 5 buah\n
+            - Bawang putih 5 siung\n
+            - Bawang merah 8 siung\n
+            - Lengkuas 1 ½ buah\n
+            - Terasi 2 sdt\n
+            - Gula pasir 1 ½ sdm\n
+            - Serai 1 batang\n
+            - Garam ½ sdm\n
+            - Ikann kembung 1kg dicuci bersih\n
+            - Kwetiaw basah\n\n
+            Bumbu rebusan ikan:\n
+            - Lengkuas sebesar 3 cm\n
+            - Serai 2 batang\n
+            - Kecombrang 1 buah\n
+            - Air asam jawa 3 sdm\n
+            - Asam gelugur 3 buah\n\n
+            Bumbu pelengkap:\n
+            - Nanas ¼ buah\n
+            - Cabai rawit 5 buah iris tipis\n
+            - Jeruk nipis 1 buah iris tipis\n
+            - Bawang merah iris tipis\n
+            - Ketimun 2 buah\n
+            - Daun selada 1 batang\n
+            - Kemangi 5 tangkai
+        </item>
+        <item>
+            Bahan-bahan kulit apam:\n
+            - Terigu protein sedang 200 gram\n
+            - Baking powder 2 sendok teh (saya pakai 1 sendok teh)\n
+            - Baking soda 3/4 sendok teh\n
+            - Garam halus 1/2 sendok teh\n
+            - Gula pasir 50 gram\n
+            - Air 160 mili liter\n
+            - Susu cair 160 mili liter\n
+            - Telur 1 butir\n
+            - Butter leleh 40 gram\n\n
+            Bahan isian:\n
+            - Kacang tanpa kulit, sangrai (cincang kasar)\n
+            - Gula pasir secukupnya\n
+            - Butter secukupnya\n
+            - Susu kental manis secukupnya\n
+            - Keju parut, suka-suka\n
+            - Meises coklat, jika suka
+        </item>
+        <item>
+            Bahan:\n
+            - 200 g beras\n
+            - 10 lembar bunga telang segar/kering\n
+            - 2 batang serai\n
+            - 2 lembar daun jeruk\n
+            - 400 ml air\n\n
+            Pelengkap\n
+            - telur asin\n
+            - ayam goreng\n
+            - ikan teri goreng tepung\n
+            - sayur urap
+        </item>
+        <item>
+            - 1 kg daging lembu / sapi (iris tipis)\n
+            - 1-2 siung bawang bombai\n
+            - 3 siung bawang putih\n
+            - 2 inci halia\n
+            - 2 sdm serbuk kari daging\n
+            - 2 buah tomato\n
+            - 3 buah cabai hijau\n
+            - 3 helai daun pandan\n
+            - 2 tangkai daun kari\n
+            - 2 batang serai\n
+            - 2 sdm minyak sayur\n
+            - 2 cangkir air\n
+            - Garam secukupnya\n
+            - Gula secukupnya
+        </item>
+        <item>
+            - 1 kg beras ketan, rendam 1 jam\n
+            - 6 siung bawang putih, haluskan\n
+            - 2 sdt garam\n
+            - 1 sdt gula pasir\n
+            - 8 lembar daun jeruk\n
+            - 800 ml santan sedang\n
+            - Daun pisang muda
+        </item>
+        <item>
+            - 150 gram kwetiau kering, diseduh sampai mekar\n
+            - 2 sendok teh kecap asin\n
+            - 1 sendok makan kecap manis\n
+            - 2 siung bawang putih, dicincang halus\n
+            - 1 sendok teh terasi goreng\n
+            - 100 gram udang kupas\n
+            - 1 sendok makan saus tiram\n
+            - 1/2 sendok teh garam\n
+            - 1/4 sendok teh merica bubuk\n
+            - 1/2 sendok teh gula pasir\n
+            - 2 sendok makan air\n
+            - 2 butir telur, dikocok lepas\n
+            - 100 gram taoge\n
+            - 3 tangkai kucai, dipotong 3 cm\n
+            - 2 sendok teh cabai kering bubuk\n
+            - 2 sendok makan minyak untuk menumis
+        </item>
+        <item>
+            - 250 gr tepung serbaguna\n
+            - 1 sdm garam\n
+            - 240 ml air\n
+            - 225 ml minyak goreng
+        </item>
+    </string-array>
+
+    <string-array name="malaysia_food_steps_list_array">
+        <item>
+            1. Nasi Gurih : Taruh beras yang sudah dicuci dalam panci rice cooker.\n\n
+            2. Beri santan, daun pandan, daun salam, garam dan serai.\n\n
+            3. Masak seperti menanak nasi biasa hingga matang. Aduk-aduk lalu diamkan dalam posisi Warm.\n\n
+            4. Sambal Ikan Bilis:\n\n
+            5. Panaskan 4 sdm minyak dalam wajan, tumis bumbu halus hingga wangi dan matang.\n\n
+            6. Tambahkan air asam, aduk hingga rata.\n\n
+            7. Masukkan ikan bilis, aduk hingga tercampur rata.\n\n
+            8. Penyajian: Taruh nasi di piring saji, beri telur rebus, sambal ikan bilis, irisan timun, dan kacang tanah goreng.
+        </item>
+        <item>
+            1. Siram mie lidi dengan air hangat lalu tiriskan hingga kering.\n\n
+            2. Tumis bawang putih hingga wangi.\n\n
+            3. Masukkan tahu, cabe merah dan cabe hijau, aduk hingga rata.\n\n
+            4. Masukkan mie lidi dan tambahkan bumbu, tauge dan 3 sdm air.\n\n
+            5. Aduk-aduk hingga bumbu tercampur rata dengan mie.\n\n
+            6. Angkat, sajikan hangat dengan Pelengkapnya.
+        </item>
+        <item>
+            1. Panaskan air sampai mendidih kemudian celur mee kuning seketika. angkat dan toskan\n\n
+            2. Panaskan minyak dalam periuk dengan api sederhana. tumis bahan rempah sampai naik bau kemudian masukan juga bahan kisar halus dan pes rempah kari. kacau sampai sedikit agak garing dan sampai pecah minyak.\n\n
+            3. Selepas tu masukan ayam dan kacau seketika sehingga separuh masak. tuang sanatan cair dan air rebusan udang. selepas tu masak sampai kuah mendidih.\n\n
+            4. Masukan udang, kek ikan, kerang, kentang, asam glugor, bebola ikan, dan santan pekat. kacau kembali kuah tadi supaya semasa proses memasak tidak pecah minyak.\n\n
+            5. Masukan sedikit gula dan garam secukup rasa dan akhir sekali, hidangkan mee bersama hiasan dan kuah secukupnya.\n\n
+            6. Sajikan.
+        </item>
+        <item>
+            1. Langkah pertama tuangkan minyak goreng kedalam wajan, lalu tunggu hingga panas. Masukkan bumbu halus, dan tunggu hingga muncul wangi harum setelah itu anda bisa angkat dan sisihkan\n\n
+            2. Langkah kedua siapkan panci, tambahkan ½ kecombrang dan beberapa bumbu untuk merebus ikan. Kemudian anda bisa memasukan ikannya, tunggu hingga matang. Jika sudah anda bisa menyaring kaldunya saja dan membuat bumbu dari rebusan\n\n
+            3. Setelah ikan tadi matang, anda bisa mencabik-cabik secara kasar dagingnya. Setelah itu gabungkan antara ikan dan bumbu tumis pada panci yang terisi kaldu. Rebus kembali dengan api kecil sembari memasukan kecombrang, gula, air asam jawa, dan garam\n\n
+            4. Langkah terakhir siapkan mangkuk yang diisi kwetiaw, siram dengan kuah laksa dan ikan serta sajikan bersamaan dengan bahan pelengkapnya.
+        </item>
+        <item>
+            1. Langkah awal dalam wadah, campur semua bahan kulit apam, aduk rata.\n\n
+            2. Selanjutnya aduk rata adonan menggunakan whisk sampai benar-benar halus dan tidak ada lagi adonan yang bergerindil. Simpan di dalam kulkas selama semalaman. (kalau saya cuma selama 5 jam).\n\n
+            3. Panaskan pan anti lengket, lalu beri sedikit minyak dan bersihkan sisa minyaknya menggunakan lap.\n\n
+            4. Kemudian tuang adonan secukupnya ke dalam pan. (kalau mau lebih tebal bisa ditambahkan adonannya).\n\n
+            5. Apabila gelembungnya sudah mulai banyak, taburi gula filling sesuai selera (lebih enak ditambahkan sedikit butter) lalu tutup pan agar tengahnya cepat matang.\n\n
+            6. Apabila tengahnya sudah matang dan pinggirannya sudah mengeras segera angkat.\n\n
+            7. Langsung lipat dua, lalu sajikan selagi panas bersama teh hangat tawar. Mantapppp!
+        </item>
+        <item>
+            1. Dalam panci didihkan air. Masukkan bunga telang, matikan api. Diamkan 5 menit hingga air berubah warna biru. Saring. Sisihkan.\n\n
+            2. Dalam rice cooker masukkan nasi, serai, daun jeruk, dan air bunga telang.\n\n
+            3. Masak hingga nasi matang. Angkat.\n\n
+            4. Sajikan hangat dengan pelengkap.
+        </item>
+        <item>
+            1. Bawang besar, bawang putih dan halia diblender halus menggunakan 2 cangkir air dan campurkan bersama dengan serbuk kari daging.\n\n
+            2. Panaskan minyak dalam wajan dan setelah minyak panas, masukkan daun kari yang telah dilurut. Masukkan bahan kisar, daging, buah tomato yang telah dibelah 4, serai yang sudah di memarkan, daun pandan yang telah diikat serta cabai hijau yang dibelah 2.\n\n
+            3. Rebus dengan api sederhana sehingga kuah menjadi pekat dan daging telah empuk. Masukkan garam dan gula secukupnya.
+        </item>
+        <item>
+            1. Tuang ketan ke dalam panci, tambahkan bawang putih, garam, gula pasir, daun jeruk dan santan. Aron sampai meresap, angkat, ambil daun jeruknya.\n\n
+            2. Siapkan cetakan lontong, masukkan daun pisang muda ke bagian sisi dalamnya. Tekuk dan rapatkan salah satu ujungnya.\n\n
+            3. Sendokkan ketan aron ke dalamnya hingga penuh. Tekuk sisa daun di ujungnya.\n\n
+            4. Rebus di dalam air mendidih, selama 45 menit sampai matang dan padat atau kukus selama 60 menit hingga matang. Tiriskan hingga dingin, keluarkan dari cetakan.\n\n
+            5. Potong-potong dan sajikan sebagai pengganti ketupat.
+        </item>
+        <item>
+            1. Lumuri kwetiau dengan kecap asin dan kecap manis. Sisihkan.\n\n
+            2. Panaskan minyak. Tumis bawang putih dan terasi sampai harum. Masukkan udang. Aduk sampai berubah warna. Tambahkan saus tiram, garam, merica bubuk, gula pasir, dan air. Aduk rata.\n\n
+            3. Masukkan kwetiau. Aduk rata. Tambahkan telur. Aduk sampai berbutir kasar.\n\n
+            4. Masukkan taoge, kucai, dan cabai bubuk. Masak sampai matang.
+        </item>
+        <item>
+            1. Campur garam dengan air.\n\n
+            2. Masukkan tepung ke dalam mangkuk. Tambahkan air garam secara bertahap. Aduk-aduk hingga adonan roti kalis.\n\n
+            3. Olesi telapak tangan dengan minyak goreng, buat adonan menjadi bola-bola seukuran telapak tangan.\n\n
+            4. Siapkan mangkuk, tuang sedikit minyak, letakkan adonan roti di atasnya agar tidak lengket. Biarkan terendam minyak selama semalaman.\n\n
+            5. Siapkan meja datar untuk membentuk adonan roti. Beri minyak di atasnya agar tidak lengket saat membentuknya.\n\n
+            6. Ambil adonan, ratakan dengan telapak tangan. Balikkan seperti membuat piza. Lakukan kembali hingga adonan menipis.\n\n
+            7. Ambil satu sisi dan lipat ke tengah. Lakukan sebanyak tiga kali hingga berbentuk bulat.\n\n
+            8. Siapkan wajan datar, olesi dengan minyak goreng dan masak adonan roti hingga berwarna coklat keemasan. Angkat dan sajikan.
+        </item>
+    </string-array>
+
+    <string-array name="korea_food_name_list_array">
+        <item>Bulgogi</item>
+        <item>Bibimbab</item>
+        <item>jajangmuyoen</item>
+        <item>Jjampong</item>
+        <item>Ttokpokki</item>
+        <item>Pajeon</item>
+        <item>Bungeoppang</item>
+        <item>Gyeranppang</item>
+        <item>Twigim</item>
+        <item>Kimbab</item>
+    </string-array>
+
+    <string-array name="korea_food_image_list_array">
+        <item>@drawable/korea_bulgogi</item>
+        <item>@drawable/korea_bibimbap</item>
+        <item>@drawable/korea_jajangmuyeon</item>
+        <item>@drawable/korea_jjampong</item>
+        <item>@drawable/korea_tteokbokki</item>
+        <item>@drawable/korea_pajeon</item>
+        <item>@drawable/korea_bungeoppang</item>
+        <item>@drawable/korea_gyeranppang</item>
+        <item>@drawable/korea_twigim</item>
+        <item>@drawable/korea_kimbab</item>
+    </string-array>
+
+    <string-array name="korea_food_desc_list_array">
+        <item>
+            Resep Bulgogi Korea ini dijamin mirip dengan rasa original Korea. Makanan khas negeri ginseng yang dibuat sendiri ini pasti rasanya lezat. Cara membuat resep bulgogi ini mungkin mirip dengan yang lain. Tapi bumbu saus yang dipakai untuk daging sapi harus Saus Tiram Selera. Bumbunya sudah pasti meresap sempurna! Apalagi dengan tambahan seperti bawang putih, kecap manis, madu, minyak wijen dan lainnya, membuat rasa daging pasti gurih dan aromanya nikmat. Siap jadi hidangan istimewa! Keluarga pun akan menyantap bulgogi kuliner negeri ginseng tanpa perlu boros ke restoran.
+        </item>
+        <item>
+            Bibimbap adalah nasi campur khas Korea yang berisi daging cincang, sayuran, dan juga telur. Bibimbap biasa disajikan dengan tambahan gochujang atau pasta cabai Korea.\n\n
+            Tidak ada aturan pakem mengenai daging dan sayuran untuk bibimbap, sehingga bisa disesuaikan dengan stok yang ada di rumah.
+        </item>
+        <item>
+            Jajangmyeon adalah mi dengan saus pasta kacang kedelai hitam yang populer di Korea. Kamu bisa membuat jajangmyeon sendiri di rumah. Jadi kamu tak perlu jauh-jauh berkunjung ke Korea untuk dapat menikmati semangkuk kelezatan jajangmyeon.  Untuk mi, bisa menggunakan mi instan, spageti, atau ramen. Sementara, topping daging babi bisa diganti dengan daging ayam.
+        </item>
+        <item>
+            Populer di Korea Selatan, nyatanya Jjampong adalah makanan asli dari China. Nama Jjampong sendiri bahkan diambil dari bahasa Jepang yang berarti campur. Saat di Korea, Jjampong banyak tersedia di restoran China.\n\n
+            Banyak hal menarik dari Korea yang menjadi tren dan tersebar ke negara-negara lain di seluruh dunia. Tak hanya fashion dan tren makeup-nya, Korea juga dikenal memiliki jenis kuliner yang unik dan beragam.\n\n
+            Salah satu hidangan khas Korea yang sekarang banyak digemari adalah Jjampong. Mie seafood pedas ini sering terlihat di drama-drama Korea. Ternyata menu ini tidak sulit dibuat. Ini dia resep Jjampong sederhana yang bisa kamu coba sendiri di rumah.
+        </item>
+        <item>
+            Bagi pecinta drama Korea, pasti sudah tidak asing lagi dengan street food yang satu ini. Topokki tampak begitu nikmat karena penyajiannya disiram dengan saus gochujang yang berwarna merah dan sedap.\n\n
+            Tekstur kenyal dari kue beras dan rasa pedas dari gochujang ternyata cocok dengan lidah orang Indonesia. Maka tidak heran jika jajanan yang satu ini langsung menjadi favorit orang Indonesia.\n\n
+            Apalagi, saus gochujang biasanya bisa dikreasikan sesuai dengan selera Indonesia. Saus gochujang merupakan saus asam pedas hasil fermentasi dari beberapa bahan antara lain beras dan cabai.
+        </item>
+        <item>
+            Dadar gurih asin yang satu ini merupakan salah satu menu sarapan favorit warga Korea. Pastikan untuk menambah berbagai protein hewani ke dalam pajeon, untuk memberikan efek kenyang yang lebih lama.
+        </item>
+        <item>
+            Pancake bentuk ikan mas khas Korea, mirip dengan Taiyaki khas Jepang. Adonan dicetak dalam cetakan bentuk ikan, diisi pasta kacang merah atau azuki bean. Biasanya dinikmati saat musim dingin.
+        </item>
+        <item>
+            Korean Egg Bread merupakan makanan khas jajanan musim dingin yang populer di Korea selain Hotteok.\n\n
+            Rasa Korean Egg Bread sendiri mirip dengan muffin jagung dengan telur dan memiliki sedikit rasa manis dan juga asin.\n\n
+            Korean Egg Bread ini memang terlihat seperti sandwich, yaitu adanya telur diantara adonan roti.\n\n
+            Akan tetapi yang berbeda adalah telurnya tepat berada di atas roti, jdi dapat terlihat jelas kuning telurnya.\n\n
+            Sekarang anda dapat mencoba membuatnya di rumah, cara membuatnya juga tidak terlalu sulit. Berikut resep lengkapnya.
+        </item>
+        <item>
+            Serupa dengan tempura di Jepang, tapi lebih beraroma. Sajian ini merupakah salah satu makanan khas Korea yang halal.
+        </item>
+        <item>
+            Kimbab adalah salah satu makanan Korea paling praktis dan mudah ditemui di semua restoran Korea. Banyak orang juga ingin mencoba membuat sendiri karena terlihat begitu mudah dan menarik untuk dicoba.\n\n
+            Kalau Anda mencari resep kimbab yang mudah dan sederhana, namun punya komposisi dan rasa mirip dengan yang ada di Korea, maka resep kimbab yang satu ini harus dicoba!
+        </item>
+    </string-array>
+
+    <string-array name="korea_food_ingredients_list_array">
+        <item>
+            - 250 gram daging slice\n
+            - 1 bungkus Saus Tiram Selera\n
+            - 3 siung bawang putih yang dicincang halus\n
+            - 3 sendok makan kecap manis\n
+            - 3 sendok makan air\n
+            - 1 sendok makan madu\n
+            - 1/2 sendok makan minyak wijen\n
+            - 1 sendok teh lada hitam\n
+            - daun bawang iris halus\n
+            - 1 sendok makan wijen sangrai
+        </item>
+        <item>
+            Bahan:\n
+            - 100 gram daging sapi, iris tipis\n
+            - 2 sdt kecap asin\n
+            - 50 gram bayam\n
+            - 1 buah wortel, potong korek api\n
+            - 2 butir telur\n
+            - 1/2 sdt minyak wijen\n
+            - 1 ruas jahe, potong korek api\n
+            - 1/2 sdt biji wijen putih, sangrai\n
+            - 2 porsi nasi putih\n
+            - 1 sdm extra virgin olive oil, untuk menumis\n\n
+            Bahan saus:\n
+            - 2 sdt gochujang\n
+            - 2 sdt biji wijen putih, sangrai\n
+            - 2 sdt cuka apel (bisa diganti cuka putih biasa)\n
+            - 4 sdt kecap asin
+        </item>
+        <item>
+            Bahan:\n
+            - 500 gram mi (bisa pakai spageti, ramen, atau mi instan)\n\n
+            Bahan saus jajangmuyoen\n
+            - 50 ml minyak sayur\n
+            - 200 ml air\n
+            - 100 gram chujang atau pasta kedelai hitam Korea (alternatif lain bisa menggunakan kecap manis dengan cabai dan gula aren)\n
+            - 250 gram dada ayam tanpa tulang, potong dadu\n
+            - 1 buah bawang bombai, cincang kasar\n
+            - 1 sdm bawang putih cincang\n
+            - 1 buah zukini, potong korek api (bisa diganti timun)\n
+            - 3 batang daun bawang, ukuran sedang, potong kecil ukuran 2 cm\n
+            - 1 sdt gula\n
+            - 2 sdm tepung maizena, larutkan dengan dua sendok air\n
+            - 1 sdm minyak wijen
+        </item>
+        <item>
+            Bahan:\n
+            - 1 bungkus mie telur atau mie udon\n
+            - 6 buah udang ukuran sedang\n
+            - 6 buah kerang hijau (bisa diganti atau dicampur dengan jenis kerang lain)\n
+            - 2 sdt bawang putih cincang\n
+            - 1 sdm gochugaru (bubuk cabai)\n
+            - 100 gr daging sapi, potong tipis\n
+            - 7 cup kaldu ayam/daging/seafood\n
+            - 1/2 buah bawang Bombay\n
+            - 1 sdt jahe cincang\n
+            - 2 sdm kecap asin\n
+            - 2 buah cumi, potong kecil\n
+            - 1 batang daun bawang, potong seukuran 5 cm\n
+            - 100 gr sawi putih (bisa juga diganti dengan pokcoy)\n
+            - 1/2 buah wortel, potong sesuai selera\n
+            - 2 buah jamur shitake, potong tipis\n
+            - gula dan garam untuk penambah rasa\n\n
+            Bahan pelengkap:\n
+            - 1 buah cabai hijau, buang bijinya dan iris tipis\n
+            - 1 buah cabai merah, buang bijinya dan iris tipis\n
+            - 1 sdm fish sauce
+        </item>
+        <item>
+            Bahan garaettoek (kue beras):\n
+            - 6 dm tepung beras\n
+            - 2 sdm tepung kanji/tapioka\n
+            - 1 sdm minyak wijen\n
+            - 1 sdt kaldu ayam\n
+            - Garam secukupnya\n
+            - 120 ml air panas\n\n
+            Bahan saus pengganti gochujang (ala Indonesia):\n
+            - 4 bawang putih cincang\n
+            - 1/2 bawang bombay cincang\n
+            - 6 rawit merah haluskan\n
+            - 2 sdm margarin\n
+            - 4 sdm saus sambal\n
+            - 2 sdm saus tomat\n
+            - 2 sdm mayonaise\n
+            - 1 sdm saus tiram\n
+            - 1 sdm kecap asin\n
+            - taburan cabai bubuk\n
+            - irisan daun bawang\n
+            - sedikit air (sekitar 70ml)
+        </item>
+        <item>
+            Bahan:\n
+            - 10 batang daun bawang cung, potong 7 cm\n
+            - 100 g wortel, potong korek api panjang 7 cm\n
+            - minyak goreng\n\n
+            Adonan pancake:\n
+            - 200 g tepung terigu serba guna\n
+            - 1 sdm tepung maizena\n
+            - 1 butir telur\n
+            - 3 siung bawang putih, haluskan\n
+            - 1 sdm kecap asin\n
+            - ½ sdt garam\n
+            - 400 ml air es\n\n
+            Saus, aduk rata:\n
+            - 3 sdm kecap asin\n
+            - 1 sdt minyak wijen\n
+            - ½ sdt gula pasir\n
+            - 1 siung bawang putih, parut halus\n
+            - ½ sdt cabai merah besar, cincang halus\n
+        </item>
+        <item>
+            Bahan:\n
+            - 200 g tepung terigu serba guna\n
+            - 2 sdm gula pasir\n
+            - 1 sdt garam\n
+            - 1 sdt baking soda\n
+            - 2 butir telur\n
+            - 300 ml air\n
+            - 2 sdm minyak goreng\n\n
+            Isi:\n
+            - 300 g kacang merah/azuki bean, rebus hingga lunak, haluskan\n
+            - 100 g gula pasir\n
+            - ½ sdt vanilla ekstrak\n
+            - ½ sdt garam
+        </item>
+        <item>
+            Bahan:\n
+            - 2 butir telur\n
+            - 4 sdm gula\n
+            - 9 sdm terigu protein sedang\n
+            - 3/4 sdt baking powder\n
+            - 60 ml susu full cream\n
+            - 100 gr butter / mentega / margarin, lelehkan lalu dinginkan suhu ruang\n
+            - 4 butir telur (untuk masing-masing cetakan)\n\n
+            Topping (sesuai selera):\n
+            - Sosis / smoked beef\n
+            - Garam\n
+            - Lada\n
+            - Bubuk bawang putih\n
+            - Parsley / daun bawang\n
+            - Keju cheddar parut
+        </item>
+        <item>
+            Bahan:\n
+            - 150 g paprika kuning, potong bentuk korek api\n
+            - 150 g paprika hijau, potong bentuk korek api\n
+            - 350 g ubi merah, potong bentuk korek api\n
+            - 100 g wortel, potong bentuk korek api\n
+            - Minyak sayur\n\n
+            Adonan tepung, aduk rata:\n
+            - 75 g tepung terigu serbaguna\n
+            - ½ sdt baking soda\n
+            - 200 g twigim garu*\n
+            - 275 ml air dingin\n
+        </item>
+        <item>
+            - Nasi putih hangat - 1 mangkuk\n
+            - Garam - 1 sdt\n
+            - Nori - 2 lembar\n
+            - Wortel - 1 buah\n
+            - Bayam - 1 ikat\n
+            - Timun - 1/3 potong\n
+            - Telur ayam - 2 butir\n
+            - Daging sapi - 250 gram\n
+            - Kecap asin - 1 sdm\n
+            - Merica bubuk - 1/4 sdt\n
+            - Garam - 1/4 sdt\n
+            - Minyak wijen - secukupnya\n
+        </item>
+    </string-array>
+
+    <string-array name="korea_food_steps_list_array">
+        <item>
+            1. Masukkan ke dalam mangkuk 1 sendok makan Selera Saus Tiram\n\n
+            2. Masukkan bumbu perendam seperti bawang putih, kecap manis, air, madu, minyak wijen dan lada hitam.\n\n
+            3. Aduk semua bahan dalam mangkuk hingga rata dan larut.\n\n
+            4. Masukkan daging slice dan biarkan selama 15 menit.\n\n
+            5. Panaskan teflon hingga benar-benar panas, tuang daging beserta bumbu rendaman.\n\n
+            5. Masak hingga daging matang dan bumbu mengering. Angkat.\n\n
+            7. Sajikan dengan taburan wijen dan daun bawang.
+        </item>
+        <item>
+            1. Marinasi daging sapi dengan kecap asin selama 10 sampai 20 menit. Kemudian tumis sekitar 2 sampai 3 menit atau hingga bagian luar daging berwarna kecoklatan. Sisihkan.\n\n
+            2. Dalam wajan yang sama, tumis wortel sekitar 2 sampai 3 menit lalu sisihkan. Selanjutnya, tumis juga bayam hingga layu, sekitar 1 menit saja. Terakhir, ceplok telur dan tambahkan minyak zaitun jika wajan mulai kering.\n\n
+            3. Untuk saus, campur semua bahan dan aduk hingga semua bahan tercampur.\n\n
+            4. Ambil nasi dan tata dalam mangkuk saji. Letakkan daging sapi di atasnya lalu tata juga wortel, bayam, telur, dan irisan jahe. Taburkan biji wijen dan beri saus gochujang sesuai selera.\n\n
+            5. Cara terbaik untuk menikmati bibimbap ialah dengan menganduk semua bahan lalu menyendoknya dalam satu suapan penuh.
+        </item>
+        <item>
+            1. Saus jajang: Dalam wajan, panaskan minyak dengan menggunakan api sedang. Saat minyak hampir berasap, kecilkan apinya lalu tumis bawang putih dan daun bawang. Masak hingga kecoklatan, selama tiga sampai lima menit. Angkat, sisihkan, dan saring minyaknya.\n\n
+            2. Tambahkan sedikit minyak ke wajan bekas menumis, masukkan chujang. Masak sambil diaduk cepat, kurang lebih selama satu menit. Angkat dan sisihkan.\n\n
+            3. Tumis daging ayam hingga kecokelat, selama tiga sampai lima menit. Masukkan tumisan bawang putih dan daun bawang. Tambahkan pula saus chujang-nya.\n\n
+            4. Tambahkan air, lalu masukkan bawang bombai yang sudah dipotong. Kecilkan apinya, masukkan tepung maizena yang sudah dilarutkan, gula, dan minyak wijen. Aduk rata selama tiga menit.\n\n
+            5. Didihkan air, beri satu sendok teh garam, masukkan mi ke dalamnya. Rebus hingga lunak sesuai petunjuk kemasan. Tiriskan.\n\n
+            6. Tata mi di atas piring saji, tuang saus jajang, kemudian beri potongan zukini. Jajangmyeon halal ala rumahan siap disajikan.
+        </item>
+        <item>
+            1. Rebus mie dalam panci sesuai dengan instruksi pada kemasan. Pastikan untuk tidak memasak mie terlalu matang agar teksturnya tidak terlalu lembek. Setelah matang, tiriskan mie dan sisihkan.\n\n
+            2. Rebus kerang dengan 2 cup air hingga mendidih. Tutup panci, masak dengan api kecil hingga kulit kerang terbuka. Tiriskan kerang kemudian tambahkan 1 cup kaldu ayam.\n\n
+            3. Panaskan minyak lalu tumis bawang putih dan jahe cincang. Masukan bubuk cabai, daging cincang, dan bawang bombay. Tumis semua bahan hingga tercampur rata dan mengeluarkan aroma harum.\n\n
+            4. Setelah beberapa menit, masukan udang, cumi, wortel, dan daun bawang ke dalam wajan, aduk kembali hingga rata.\n\n
+            5. Setelah beberapa menit kemudian, masukan juga bahan lainnya seperti kerang yang sudah direbus, sawi putih, jamur, mie, dan kuah kaldu. Biarkan hingga mendidih.\n\n
+            6. Masak dengan api sedang kurang lebih 5 menit. Tambahkan kecap asin, garam, dan gula hingga rasanya pas. Setelah matang dan semua bahan dan bumbu tercampur, matikan api.\n\n
+            7. Taburkan bahan pelengkap dan Jjampong pun siap untuk disajikan.
+
+        </item>
+        <item>
+            1. Campur semua bahan tteok dalam satu wadah, lalu siram dengan air panas sedikit demi sedikit untuk membentuknya.\n\n
+            2. Setelah dibentuk panjang-panjang, kemudian potong lalu rebus menggunakan air telah diberi minyak agar tidak lengket satu sama lain. Tunggu hingga mengapung lalu angkat dan tiriskan..\n\n
+            3. Untuk membuat sausnya, tumis bawang putih cincang, bawang bombay iris dan rawit halus dengan menggunakan 2 sendok makan margarin.\n\n
+            4. Kemudian tambah minyak sedikit, lalu masukkan tteok dan sosis kemudian tambahkan sedikit air.\n\n
+            5. Tambahkan saus sambal, saus tomat, mayonaise dan bumbu-bumbu lain yang telah disiapkan.\n\n
+            6. Setelah dimasak beberapa saat, kemudian taburkan irisan daun bawang dan cabai bubuk sesuai selera.
+        </item>
+        <item>
+            1. Adonan pancake: Aduk semua bahan hingga licin. Panaskan wajan datar diameter 22 cm, olesi dengan sedikit minyak goreng.\n\n
+            2. Tuang adonan pancake, taburkan daun bawang cung dan wortel di atasnya. Masak dengan api kecil hingga adonan padat.\n\n
+            3. Balikkan pancake, masak sisi lainnya dengan api sedang hingga kecokelatan. Angkat, potong-potong. Sajikan dengan saus.
+        </item>
+        <item>
+            1. Isi: Masukkan kacang merah ke dalam panci. Tambahkan gula pasir, vanilla ekstrak, dan garam. Masak dengan api kecil sambil diaduk hingga gula larut. Angkat, sisihkan.\n\n
+            2. Dalam wadah, campur rata tepung, gula pasir, garam, dan baking soda. Tambahkan telur dan air, aduk rata dengan whisk. Saring adonan. Sisihkan.\n\n
+            3. Panaskan cetakan bentuk ikan, olesi sedikit minyak. Tuang bagian badan ikan dengan adonan. Masak hingga setengah matang.\n\n
+            4. Tambahkan 1 sdm isi. Siram kembali dengan adonan hingga menutupi cetakan, tutup. Masak selama 3 menit, balikkan masak sisi satunya selama 3 menit. Buka cetakan, angkat. Sajikan hangat.
+        </item>
+        <item>
+            1. Kocok telur dan gula hingga gula larut\n\n
+            2.  Masukkan terigu dan baking powder, aduk rata dengan whisk\n\n
+            3. Masukan susu dan margarin leleh, aduk rata\n\n
+            4. Tuang ke cetakan, beri 1 butir telur untuk masing2 cetakan\n\n
+            5. Beri topping sosis, taburi garam, lada, bubuk bawang putih, parsley kering\n\n
+            6. Panggang suhu 200 celcius 20-30 menit\n\n
+            7. Sajikan.***
+        </item>
+        <item>
+            1. Masukkan semua bahan, kecuali minyak, ke dalam adonan  tepung. Aduk rata.\n\n
+            2. Ambil 1 sdm adonan sayuran. Goreng di dalam minyak banyak dan panas hingga kecokelatan dan garing. Angkat. Tiriskan. Sajikan segera.
+        </item>
+        <item>
+            1. Potong tipis daging, kemudian lumuri dengan kecap asin, garam, merica bubuk. Diamkan 15 menit, kemudian panggang di pan hingga matang kecoklatan. Potong-potong memanjang daging yang sudah dipanggang.\n\n
+            2. Potong wortel korek api, kemudian tumis dengan sedikit minyak sampai layu. Sisihkan.\n\n
+            3. Rebus sebentar bayam dengan sejumput garam, angkat dan tiriskan.\n\n
+            4. Timun buang bijinya, kemudian potong-potong memanjang, sisihkan.\n\n
+            5. Dadar telur dengan sedikit garam, kemudian potong-potong memanjang.\n\n
+            6. Ambil nasi, kemudian tambahkan minyak wijen dan garam, aduk rata.\n\n
+            7. Ambil 1 lembar nori, kemudian ratakan nasi diatasnya. Susun daging, telur dan sayuran di atasnya kemudian gulung dan padatkan.\n\n
+            8. Oles dengan sedikit minyak wijen pada bagian atas kimbab.\n\n
+            9. Potong-potong kimbab yang sudah digulung, siap disajikan.
+        </item>
+    </string-array>
+
+    <string-array name="jepang_food_name_list_array">
+        <item>Sushi</item>
+        <item>Sashimi</item>
+        <item>Onigiri</item>
+        <item>Ramen</item>
+        <item>Udon</item>
+        <item>Takoyaki</item>
+        <item>Yakitori</item>
+        <item>Dorayaki</item>
+        <item>Okonomiyaki</item>
+        <item>Tempura</item>
+    </string-array>
+
+    <string-array name="jepang_food_image_list_array">
+        <item>@drawable/jepang_sushi</item>
+        <item>@drawable/jepang_sashimi</item>
+        <item>@drawable/jepang_onigiri</item>
+        <item>@drawable/jepang_ramen</item>
+        <item>@drawable/jepang_udon</item>
+        <item>@drawable/jepang_takoyaki</item>
+        <item>@drawable/jepang_yakitori</item>
+        <item>@drawable/jepang_dorayaki</item>
+        <item>@drawable/jepang_okonomiyaki</item>
+        <item>@drawable/jepang_tempura</item>
+    </string-array>
+
+
+    <string-array name="jepang_food_desc_list_array">
+        <item>
+            Diantara sekian banyak makanan mancanegara mungkin hanya sushi dari Jepang yang paling akrab dengan lidah orang Indonesia. Saking populer-nya masakan khas Jepang ini, banyak orang ingin mencoba membuatnya sendiri di rumah.\n\n
+            Nah, kali ini resep kue renyah akan mengulas tentang apa saja bahan-bahan dan cara membuat sushi Jepang. Simak resepnya berikut.
+        </item>
+        <item>
+            Siapa disini yang suka makan makanan laut mentah? Pasti sudah familiar dong dengan makanan sashimi khas Jepang ini. Resep\n\n
+            sashimi atau sasyimi adalah resep populer dari Jepang, yang terbuat dari makanan laut mentah dan segar seperti ikan tuna dan salmon dengan bumbu kecap asin, wasabi, dan parutan jahe.
+        </item>
+        <item>
+            Onigiri adalah nasi kepal khas Jepang, yang mana di negara asalnya juga menjadi bekal makanan selama perjalanan.\n\n
+            Nasi kepal ini dibentuk dengan tangan menjadi bulat atau segitiga. Membuat onigiri sangat cepat dan mudah, praktis pula untuk dibawa piknik.\n\n
+            Nasi onigiri lebih nikmat dengan campuran nasi, garam, merica, wijen panggang, nori (rumput laut kering), serpihan bonito, dan sedikit gula.
+        </item>
+        <item>
+            Ramen khas Jepang bukan lagi hidangan yang asing di lidah masyarakat Indonesia. Hidangan ramen di pasaran Indonesia bahkan telah disesuaikan dengan lidah lokal dan terdiri dari bahan yang halal.\n\n
+            Sementara di Jepang, ramen memiliki dua aliran. Yang pertama, ramen yang dikelola imigran dari Tiongkok, yakni ramen dengan rasa miso atau rasa shio.\n\n
+            Yang kedua adalah ramen yang dijual oleh pedagang kaki lima yang menjajakan ramen dengan gerobak dorong sudah ada di Jepang sejak zaman Edo. Kini ramen sudah tersebar ke seluruh dunia dan jadi hidangan favorit banyak orang.
+        </item>
+        <item>
+            One dish meal khas Jepang yang populer di gerai mi di Indonesia. Dengan topping daging tumis yang cenderung manis gurih.
+        </item>
+        <item>
+            Takoyaki, bola-bola berisi gurita merupakan jajanan kaki lima khas Osaka, Jepang. Rasanya empuk lembut dengan topping saus mayo dan takoyaki yang gurih.\n\n
+            Bola-bola berisi gurita dan isian lainnya ini umum dijajakan di kaki lima. Dibuat saat dibeli dan dimakan selagi hangat. Rasanya yang empuk, gurih dengan balutan saus takoyaki dan mayones. Makin enak diberi taburan katsuobushi yang gurih smoky.\n\n
+            Membuat takoyaki perlu sedikit kesabaran karena bola-bola harus dimasak dan dibalik satu per satu. Kalau ada cetakan poffertjes kamu bisa membuat takoyaki sendiri. Sesuaikan isian dan toppingnya sesuai selera. Bisa camilan enak sore hari.
+        </item>
+        <item>
+            Yakitori atau sate ayam Jepang selalu dimakan hangat. Cara membuatnya mudah dan bahan serta bumbunya sederhana tetapi rasanya gurih mantap.\n\n
+            Sesuai dengan namanya yakitori, yaki artinya panggang dan tori artinya daging ayam. Yakitori mirip sate ayam karena ditusuki dengan tusuk bambu meskipun dalam ukuran lebih kecil.\n\n
+            Kalau bosan dengan sate ayam berbumbu kacang. Kamu bisa membuat sendiri yakitori yang sederhana dan gampang dibuat ini. Siapkan daging dada atau paha ayam. Lalu racik bumbu perendamnya dengan petunjuk resep berikut ini.
+        </item>
+        <item>
+            Dorayaki yang dikenal sebagai makanan kesukaan Doraemon ini bertekstur seperti cake, walau bentuknya mirip pancake. Dorayaki klasik berisi pasta kacang merah (anko).
+        </item>
+        <item>
+            Okonomiyaki merupakan salah satu makanan khas Jepang yang masuk dalam daftar makanan untuk para atlet di Olimpiade Tokyo 2020.\n\n
+            Okonomiyaki terbuat dari campuran tepung terigu, sayuran, kaldu, dan aneka seafood, seperti cumi-cumi, gurita, dan udang.\n\n
+            Hidangan yang disajikan bersama saus kecap ini dimasak di atas panggangan datar yang terbuat dari besi.
+        </item>
+        <item>
+            Udang goreng berbalut tepung jadi menu favorit di restoran Jepang. Ada yang dibalut adonan tepung tempura, tepung panir dan adonan terigu. Krenyes gurih!\n\n
+            Gorengan diperkenalkan oleh bangsa Spanyol kepada masyarakat Jepang. Beragam tempura salah satunya. Berbagai bahan dan sayuran kemudian digoreng dengan lapisan tepung.
+        </item>
+    </string-array>
+
+
+    <string-array name="jepang_food_ingredients_list_array">
+        <item>
+            Bahan-bahan untuk nasi sushi:\n
+            - 150 gram beras jepang (bisa dipilih beras import)\n
+            - 1/5 sendok makan rice vinegar\n
+            - 1 gelas air matang\n
+            - Garam dan gula pasir secukupnya\n\n
+            Bahan-bahan untuk sushi:\n
+            - 6 potong avokad (dicuci lalu dipotong memanjang)\n
+            - 8 potong mentimun Jepang (dicuci hingga bersih, buang bijinya lalu dipotong memanjang)\n
+            - 2 lembar nori (pilih yang berukuran 19 cm x 20 cm)\n
+            - 6 buah crab (pilih yang bentuk stik)\n
+            - 1/2 sendok teh wijen hitam (disangrai)\n
+            - 1/2 sendok teh wijen putih (disangrai)
+        </item>
+        <item>
+            - 500 gr tuna segar\n
+            - 2 buah Bawang merah\n
+            - 1 siung bawang putih\n
+            - 6 buah cabai rawit\n
+            - 1 ruas jahe\n
+            - Kacang tanah goreng\n
+            - Kecap asin 4 sdm\n
+            - Kecap manis 5 sdm\n
+            - Daun kemangi\n
+        </item>
+        <item>
+            Bahan:\n
+            - 1-2 lembar rumput laut nori kering\n
+            - 4 cangkir nasi Jepang kukus (nasi sushi)\n
+            - 1 jumput garam (atau secukupnya)\n
+            - biji wijen hitam secukupnya\n\n
+            Isian orisinal:\n
+            - Umeboshi (acar plum atau ume)\n
+            - Salmon asin panggang (potong kecil)\n\n
+            Isian alternatif:\n
+            - Sarden atau ikan tuna kaleng (bisa dibeli di minimarket) suwir tipis\n
+            - Mayoinaise secukupnya
+        </item>
+        <item>
+            Bahan\n
+            - 5 porsi mie\n
+            - Kuah kaldu (untuk hasil 2-3 L):\n
+            - 1 kg sayap ayam, potong\n
+            - 1 jahe, iris\n
+            - 1 bawang bombai, potong\n
+            - 1 bonggol bawang putih utuh, belah 2\n
+            - 3 batang daun bawang, potong\n
+            - 4 jamur shitake kering\n
+            - 1 sdm lada hitam dan lada putih, hancurkan\n
+            - 2 sdm kecap asin\n
+            - 2 sdm kecap ikan\n
+            - 1 sdm gula\n
+            - 2-4 sdt garam\n
+            - Air\n
+            - Minyak bawang gurih:\n
+            - 100 ml minyak\n
+            - 10 siung bawang putih\n
+            - 10 siung bawang merah\n
+            - 3 sdm kecap asin\n
+            - 2 sdt penyedap/kaldu bubuk\n\n
+            - Topping:\n
+            - 6 iris ayam\n
+            - 50 gr jamur lember, rebus dan iris\n
+            - 1 batang daun bawang cung, iris\n
+            - 3 butir telur ramen, belah 2\n
+            - 1 bungkus nori\n
+            - Cabai bubuk
+        </item>
+        <item>
+            Bahan:\n
+            - 800 g udon basah, seduh, tiriskan\n
+            - 5 buah cabai rawit, iris serong\n
+            - 1 batang daun bawang, iris halus\n\n
+            Tenkatsu:\n
+            - 5 sdm tepung protein rendah\n
+            - 150 ml air es\n
+            - ½ sdt cuka masak\n
+            - ½ sdt baking soda\n
+            - minyak goreng\n\n
+            Daging:\n
+            - 400 g daging sapi sukiyaki\n
+            - 3 sdm kecap asin jepang\n
+            - 2 sdm jus apel\n
+            - 1 sdm gula pasir\n
+            - ½ sdm minyak wijen\n\n
+            Kuah:\n
+            - 2 l air\n
+            - 1 buah bawang bombai berkulit, potong 4 kulit\n
+            - 1 bonggol bawang putih berkulit, belah 2\n
+            - 3 batang daun bawang, potong 3 cm\n
+            - 3 cm jahe, memarkan\n
+            - 250 ml jus apel\n
+            - 180 ml kecap asin jepang\n
+            - 30 g katsuobushi\n
+            - 2 sdm gula pasir\n
+            - 1½ sdm kaldu dashi
+        </item>
+        <item>
+            Bahan:\n
+            - 140 g tepung terigu\n
+            - 10 g tepung maizena\n
+            - 1 butir telur ayam\n
+            - 450 ml kaldu dashi dingin\n
+            - 1/2 sdt garam\n\n
+            Isian:\n
+            - 50 g udang kupas, potong kecil\n
+            - 50 g cumi kupas, potong kecil\n
+            - 2 sdm daun bawang iris halus\n
+            - 1 sdm acar jahe, iris halus\n\n
+            - Pelengkap:\n
+            - saus okonomoyaki/takoyaki\n
+            - mayones jepang\n
+            - saus cabe\n
+            - katsuobushi\n
+            - nori bubuk/aonori
+        </item>
+        <item>
+            Bahan:\n
+            - 500 g daging dada ayam\n
+            - 5 batang daun bawang, potong 2 cm\n
+            - tusuk sate\n\n
+            Bumbu Perendam:\n
+            - 100 ml shoyu/kecap Jepang\n
+            - 1 sdm minyak sayur\n
+            - 4 siung bawang putih, parut\n
+            - 1 sdm air jeruk lemon\n
+            - 1/2 sdt merica bubuk\n
+            - 1 sdt gula pasir\n
+            - 1/2 sdt garam\n
+        </item>
+        <item>
+            - 4 telur ukuran besar\n
+            - 140 gram gula\n
+            - 2 sdm madu\n
+            - 160 gram tepung terigu serbaguna\n
+            - 1 sdt baking powder\n
+            - 1-2 sdm air\n
+            - 1 sdt minyak sayur atau kanola untuk memanggang\n
+            - 520 gram pasta kacang merah alias anko (bisa beli di marketplace)
+        </item>
+        <item>
+            Bahan:\n
+            - 100 gram tepung terigu\n
+            - 1/2 sdt baking powder\n
+            - 1 butir telur, kocok sebentar\n
+            - 100 ml kaldu ikan, sayuran, ayam, atau kaldu dashi yang didinginkan\n
+            - 1 buah kentang kecil, kupas dan parut\n
+            - 1/4 buah kubis putih, runcing atau sweetheart, parut\n
+            - 1 batang daun bawang, iris halus\n
+            - Jahe seukuran ibu jari, parut\n
+            - 1 sdt kecap asin\n
+            - 1 sdt campuran gula dan air (pengganti mirin)\n
+            - 100 gr cumi-cumi, udang, atau gurita yang dimasak sebentar\n
+            - Minyak sayur secukupnya, untuk menggoreng\n\n
+            Bahan saus:\n
+            - 3 sdm kecap\n
+            - 1 sdm brown sauce\n
+            - 1 sdm kecap inggris\n
+            - 1/2 sdm kecap asin\n
+            - 1/2 sdt campuran gula dan air (pengganti mirin)\n
+            - 1/ sdt madu\n\n
+            Bahan hiasan:\n
+            - 1 sdm mayones\n
+            - Serpihan bonito kering secukupnya\n
+            - Bubuk rumput laut atau bumbu togarashi secukupnya\n
+            - Irisan daun bawang secukupnya
+        </item>
+        <item>
+            Bahan:\n
+            - 10 ekor udang windu/jerbung\n
+            - 1 siung bawang putih, parut\n
+            - 1/2 sdt merica bubuk\n
+            - 1 sdt garam\n
+            - 1 sdm air jeruk nipis\n
+            - 100 g tepung terigu\n
+            - 1 butir telur ayam, kocok hingga berbuih\n
+            - 150 g tepung panir putih kasar/panko\n
+            - minyak goreng\n\n
+            Saus Mayo:\n
+            - 1 butir telur ayam rebus, cincang halus\n
+            - 100 ml mayones botolan\n
+            - 1 sdm bawang bombay cincang halus\n
+            - 1 sdm air jeruk lemon/nipis\n
+            - 1/4 sdt merica bubuk\n
+            - 1/2 sdt garam\n\n
+            Pelengkap:\n
+            - kol iris halus\n
+            - tomat iris tipis
+        </item>
+    </string-array>
+
+    <string-array name="jepang_food_steps_list_array">
+        <item>
+            1. Siapkan beras untuk nasi Sushi, cuci hingga bersih lalu tiriskan.\n\n
+            2. Campur-kan beras dengan 200 ml air lalu masak di rice cooker hingga matang.\n\n
+            3. Jika sudah matang tuang nasi dalam kondisi panas, diamkan beberapa saat lalu kita campur dengan rice vinegar, garam, gula pasir lalu diaduk hingga benar-benar rata kemudian ditutup menggunakan lap atau kain bersih.\n\n
+            4. Jika sudah dingin kita ambil nasi Sushi kemudian di kepal-kepal (ukuran menurut selera) kemudian diletakkan pada lembaran nori lalu diratakan (lembaran nori disisakan 1 cm dari ujungnya).\n\n
+            5. Taburkan wijen hitam dan wijen putih secara merata supaya terlihat menarik.\n\n
+            6. Berikutnya balik nasi Sushi pada anyaman bambu (atau disebut juga Makishu) lalu kita tata stik crab, avocad, dan mentimun kemudian digulung dan dipadatkan.\n\n
+            7. Pada tahap ini pembuatan Sushi Jepang sudah selesai dan Sushi lezat siap dihidangkan.
+        </item>
+        <item>
+            1. Cara memasaknya cukup simpel, uleg bawang merah, bawang putih, cabai rawit, jahe dan kacang. tanah goreng. Setelah halus campurkan kecap asin dan manis, lalu aduk hingga merata.\n\n
+            2. Selanjutnya tinggal kita potong ikan aja ikan tunanya. memotong tuna harus menggunakan pisau tajam dan iris dengan melawat serat.\n\n
+            3. Oke, shasiminya sudah jadi jangan lupa taruh daun kemangi diatasnya. Resep diatas bisa dinikmati 2-3 orang.
+        </item>
+        <item>
+            1. Potong setiap lembar nori menjadi delapan hingga sembilan lembar. Lanjutkan dengan masukkan sekitar 1/2 cangkir nasi hangat yang sudah dimasak ke dalam mangkuk. Sebaiknya membentuk onigiri saat nasi dalam kondisi hangat, jika sudah dingin nasi akan sulit dikepal.\n\n
+            2. Basahi tangan dengan air agar nasi tidak lengket.\n\n
+            3. Gosokkan garam ke tangan yang basah.\n\n
+            4. Letakkan nasi hangat di tangan dan bentuk menjadi segitiga, pastikan nasi tersebut padat.\n\n
+            5. Taruh isian favoritmu di atas nasi lalu kepal jadi bulatan.\n\n
+            6. Bentuk nasi menjadi segitiga dengan menekannya secara lembut menggunakan kedua telapak tangan, buat isiannya berada di tengah dalam nasi kepal. Baca juga: Resep Kering Kentang Balado, Bisa untuk Camilan atau Lauk Makan Nasi\n\n
+            7. Bungkus nasi kepal dengan satu atau dua irisan nori, atau taburkan dengan sedikit biji wijen.
+        </item>
+        <item>
+            1. Untuk kuah, panaskan minyak lalu tumis jahe, bawang putih, bawang bombai, dan daun bawang lalu masak hingga wangi kemudian masukkan sayap ayam yang sudah dipotong-potong, lada hitam dan putih yang sudah ditumbuk lalu masak hingga kecokelatan.\n\n
+            2. Masukkan air dan jamur shitake kering, masak hingga ayam dan tulang menjadi lunak ±3-4 jam menggunakan api sedang atau 1-2 jam menggunakan presto. Jika air mulai surut tambahkan lagi air secukupnya.\n\n
+            3. Setelah ayam dan tulang lunak, sisihkan jamur shitake, bawang, dan jahe kemudian blender kaldu jangan terlalu halus kemudian saring. Sisa saringan bisa ditambahkan air lagi kemudian saring kembali dan masak lagi kaldu hingga mendidih lalu bumbui dengan kecap ikan, kecap asin, gula, dan garam.\n\n
+            4. Untuk minyak bawang gurih, cincang halus bawang merah dan bawang putih menggunakan chopper. Panaskan minyak lalu tumis bawang cincang dengan menggunakan api sedang-kecil sampai kekuningan kemudian tambahkan kecap asin dan penyedap lalu sisihkan.\n\n
+            5. Siapkan air mendidih, rebus mie hingga matang lalu pindahkan ke mangkuk dan siram dengan kuah kaldu beri ayam, telur ramen, jamur lember, nori, dan minyak bawang di atasnya dan beri cabai bubuk sesuai selera.
+        </item>
+        <item>
+            1. Tenkasu: Dalam wadah, campur baking soda dengan suka aduk rata. Tuang ke dalam tepung, tambahkan air. Aduk rata. Goreng dalam minyak panas di atas api sedang hingga kuning keemasan. Angkat, tiriskan. Sisihkan.\n\n
+            2. Daging: Dalam wadah, campur kecap asin, jus apel, gula pasir, dan minyak wijen. Aduk rata. Tuang ke dalam daging, aduk rata. Diamkan selama 10 menit. Tiriskan daging.\n\n
+            3. Tumis daging dalam panci hingga berubah warna. Jangan terlalu matang. Angkat. Sisihkan.\n\n
+            4. Kuah: Dalam panci daging, tuang air. Panaskan. Tambahkan bawang bombai, bawang putih, daun bawang, dan jahe. Masak hingga mendidih.\n\n
+            5. Tambahkan jus apel, kecap asin, katsuobushi, gula pasir, dan dashi. Aduk rata. Masak hingga mendidih kembali. Angkat. Saring.\n\n
+            6. Tata udon dalam mangkuk saji. Tuang kuah panas. Beri daging, irisan cabai rawit, daun bawang, dan tenkasu.
+        </item>
+        <item>
+            1. Dalam wadah sedang, campur tepung terigu dan tepung maizena. Buat cerukan di bagian tengah.\n\n
+            2. Tambahkan garam dan telur di dalam cerukan, aduk dengan sumpit hingga tercampur dalam terigu.\n\n
+            3. Tuangi kaldu bertahap sambail aduk-aduk hingga menjadi adonan yang licin dan encer. Jika masih begerindil saring adonan. Diamkan beberapa saat.\n\n
+            4. Panaskan cetakan poffertjes atau takoyaki, semir tipis-tipis dengan minyak.\n\n
+            5. Tuangkan adonan ke dalam lubang cetakan hingga hampir penuh. Beri potongan udang atau cumi, daun bawang dan acar jahe.\n\n
+            6. Jika pinggirnya mulai kering, dengan bantuan 2 buah tusuk sate, balikkan adonan hingga menjadi bulatan adonan.\n\n
+            7. Masak hingga seluruhnya mengering dan matang. Lakukan yang sama dengan sisa adonan dan bahan.\n\n
+            8. Susun takoyaki di atas piring saji. Beri mayones, saus takoyaki dan taburi dengan katusobushi dan nori.\n\n
+            9. Sajikan hangat.
+        </item>
+        <item>
+            1. Potong-potong daging dada ayam 3x2x1 cm.\n\n
+            2. Bumbu Perendam: Aduk semua bahan menjadi satu hingga gula larut.\n\n
+            3. Campur potongan ayam dengan Bumbu Perendam dan sisihkan selama 15 menit.\n\n
+            4. Tusuk tiap 3-4 potong daging ayam dengan tusuk sate, selingi dengan potongan daun bawang.\n\n
+            5. Panggang di atas panggangan besi atau api arang sambil balik-balik hingga matang dan agak kering.\n\n
+            6. Angkat, sajikan hangat. Jika suka bisa disajikan dengan taburan wijen atau cabe bubuk.
+        </item>
+        <item>
+            1. Masukkan telur, gula, madu ke dalam mangkuk. Kocok sampai adonan jadi fluffy.\n\n
+            2. Ayak tepung dan baking powder ke campuran telur. Aduk rata. Istirahatkan dalam kulkas selama 15 menit.
+            3. Setelah disimpan dalam kulkas, adonan akan menjadi lebih lembut. Tuangkan 1-2 sdm air. Sesuaikan, jangan sampai terlalu cair.\n\n
+            4. Panaskan wajan teflon anti lengket di atas api kecil selama 5 menit. Celupkan tisu makan ke dalam minyak sayur, oleskan ke atas teflon. Kemudian bersihkan minyak, jangan tersisa. Trik ini menjadi kunci warna kecoklatan merata pada dorayaki.\n\n
+            5. Tuang 3 sdm adonan, usahakan diameter dorayaki 8 cm.\n\n
+            6. Balik dorayaki kalau sisi atas sudah muncul gelembung. Masak 1 menit 15-30 detik untuk manggang satu sisi, dan 20-30 sisi lainnya. Lanjutkan memanggang dorayaki sampai adonan habis. Kamu tidak perlu memberi minyak lagi.\n\n
+            7. Letakkan dorayaki di atas piring, tutup dengan serbet lembap supaya dorayaki tidak kering.\n\n
+            8. Letakkan satu dorayaki, beri pasta kacang merah di bagian tengah, tutup dengan dorayaki lain.
+        </item>
+        <item>
+            1. Campurkan tepung, baking powder, telur dan kaldu. Aduk hingga rata. Tambahkan kentang, bumbui dengan sedikit garam dan lada putih, tutup dan istirahatkan minimal selama dua jam di lemari es.\n\n
+            2. Saat adonan sedang didiamkan, campurkan bahan untuk saus, aduk hingga rata. Sisihkan.\n\n
+            3. Keluarkan adonan dari lemari es dan tambahkan kubis, daun bawang, jahe, kedelai, campuran gula dan air, serta seafood pilihan. Aduk untuk melapisi campuran dalam adonan.\n\n
+            4. Panaskan minyak tipis-tipis dalam wajan dengan api sedang. Tuang adonan ke dalam panci, jaga agar bentuknyatetap melingkar. Goreng selama 3-5 menit. Gunakan pisau palet untuk membantu Anda membalik okonomiyaki dan masak selama tiga hingga lima menit lagi. Tes untuk melihat apakah okonomiyaki sudah matang dengan menusukkan sumpit ke tengah. Jika sumpit keluar dalam keadaan kering, okonomiyaki sudah matang.\n\n
+            5. Balikkan sajikan okonomiyaki dengan saus dan hiasan sesuai selera.
+        </item>
+        <item>
+            1. Kupas udang, sisakan ekornya. Taruh udang di atas talenan dengan punggung menghadap ke bawah.\n\n
+            2. Kerat-jerat bagian bawah udang dan tekan pelan hingga udang bentuknya lurus.\n\n
+            3. Aduk udang dengan bawang putih, air jeruk, merica dan garam hingga rata.\n\n
+            4. Balut tiap ekor udang tipis-tipis dengan tepung terigu hingga rata.
+        </item>
+    </string-array>
+</resources>
